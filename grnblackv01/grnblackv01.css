@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(basemain.png);
+    background: url(nemuireii.github.io/grnblackv01/basemain.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -8,7 +8,7 @@
 }
 
 .xbox.disconnected {
-    background: url(basedc.png);
+    background: url(nemuireii.github.io/grnblackv01/basedc.png);
 }
 
 .xbox.disconnected div {
@@ -25,7 +25,7 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(triggergrn.png);
+    background: url(nemuireii.github.io/grnblackv01/triggergrn.png);
     opacity: 0;
 }
 
@@ -42,7 +42,7 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(bumpergrn.png);
+    background: url(nemuireii.github.io/grnblackv01/bumpergrn.png);
     opacity: 0;
 }
 
@@ -70,7 +70,7 @@
 
 .xbox .quadrant {
     position: absolute;
-    background: url(quadrantgrn.png);
+    background: url(nemuireii.github.io/grnblackv01/quadrantgrn.png);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -107,7 +107,7 @@
 }
 
 .xbox .back, .xbox .start {
-    background: url(start-selectgrn.png);
+    background: url(nemuireii.github.io/grnblackv01/start-selectgrn.png);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -136,7 +136,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(abxygrn.png);
+    background: url(nemuireii.github.io/grnblackv01/abxygrn.png);
     width: 48px;
     height: 48px;
 }
@@ -181,7 +181,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(stickgrn.png);
+    background: url(nemuireii.github.io/grnblackv01/stickgrn.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -210,7 +210,7 @@
 }
 
 .xbox .face {
-    background: url(dpadgrn.png);
+    background: url(nemuireii.github.io/grnblackv01/dpadgrn.png);
     position: absolute;
     opacity: 0;
 }
