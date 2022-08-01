@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.custom {
-    background: url(nemuireii.github.io/grnblack/basemain.png);
+    background: url(https://nemuireii.github.io/grnblack/basemain.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -8,7 +8,7 @@
 }
 
 .custom.disconnected {
-    background: url(nemuireii.github.io/grnblack/basedc.png);
+    background: url(https://nemuireii.github.io/grnblack/basedc.png);
 }
 
 .custom.disconnected div {
@@ -25,7 +25,7 @@
 .custom .trigger {
     width: 88px;
     height: 121px;
-    background: url(nemuireii.github.io/grnblack/triggergrn.png);
+    background: url(https://nemuireii.github.io/grnblack/triggergrn.png);
     opacity: 0;
 }
 
@@ -42,7 +42,7 @@
 .custom .bumper {
     width: 170px;
     height: 61px;
-    background: url(nemuireii.github.io/grnblack/bumpergrn.png);
+    background: url(https://nemuireii.github.io/grnblack/bumpergrn.png);
     opacity: 0;
 }
 
@@ -70,7 +70,7 @@
 
 .custom .quadrant {
     position: absolute;
-    background: url(nemuireii.github.io/grnblack/quadrantgrn.png);
+    background: url(https://nemuireii.github.io/grnblack/quadrantgrn.png);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -107,7 +107,7 @@
 }
 
 .custom .back, .custom .start {
-    background: url(nemuireii.github.io/grnblack/start-selectgrn.png);
+    background: url(https://nemuireii.github.io/grnblack/start-selectgrn.png);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -136,7 +136,7 @@
 
 .custom .button {
     position: absolute;
-    background: url(nemuireii.github.io/grnblack/abxygrn.png);
+    background: url(https://nemuireii.github.io/grnblack/abxygrn.png);
     width: 48px;
     height: 48px;
 }
@@ -181,7 +181,7 @@
 
 .custom .stick {
     position: absolute;
-    background: url(nemuireii.github.io/grnblack/stickgrn.png);
+    background: url(https://nemuireii.github.io/grnblack/stickgrn.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -210,7 +210,7 @@
 }
 
 .custom .face {
-    background: url(nemuireii.github.io/grnblack/dpadgrn.png);
+    background: url(https://nemuireii.github.io/grnblack/dpadgrn.png);
     position: absolute;
     opacity: 0;
 }
