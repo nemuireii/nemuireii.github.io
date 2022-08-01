@@ -17,14 +17,15 @@
 
 .custom .triggers {
     width: 441px;
-    height: 63px;
+    height: 62px;
     position: absolute;
-    left: 152px;
+    left: 155px;
+    top: 155px;
 }
 
 .custom .trigger {
     width: 162px;
-    height: 63px;
+    height: 62px;
     background: url(triggergrn.png);
     opacity: 0;
 }
@@ -73,8 +74,8 @@
     background: url(quadrantgrn.png);
     height: 45px;
     width: 45px;
-    top: 258px;
-    left: 354px;
+    top: 289px;
+    left: 348px;
     z-index: 0;
 }
 
